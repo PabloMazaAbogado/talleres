@@ -32,4 +32,4 @@ Uso de herramientas:
 	CNC porex 4 ejes (pendiente ensamblar y comprar el software)
 	CNC madera (pendiente de comparar y ensamblar la maquina)
 	Curso de github
-
+Patentes y Modelos de Utilidad (información jurídica) (Pablo)
